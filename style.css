@@ -1,0 +1,19 @@
+h1{
+    color:green;
+}
+
+p{
+    color:teal;
+}
+
+button{
+    color: white;
+    background-color: red;;
+}
+ button:hover{
+    background-color:green;
+    color: white;
+ }
+ body{
+    background-color: black;
+ }
